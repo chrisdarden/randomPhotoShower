@@ -3,7 +3,7 @@ import { HttpClient } from '@angular/common/http';
 
 interface UnsplashResponse {
   urls: {
-    regular: string;
+    small: string;
   };
 }
 

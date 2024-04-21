@@ -21,7 +21,7 @@ export class PhotoShowComponent implements OnInit {
     fetchPhoto() {
       this.PhotosService.getPhoto().subscribe((response) => {
         console.log('Photo fetched');
-        this.photoUrl = response.urls.regular;
+        this.photoUrl = response.urls.small;
       });
     }
 

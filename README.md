@@ -2,6 +2,15 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.4.
 
+This project will display a button to retrieve some photo randomly and display it right below the photo. This project will be done the Angular way making sure to use reusability in the codebase. This project should be simple.
+
+## START
+
+MAKE SURE YOU DO NVM USE 18 AND HAVE NODE 18 INSTALLED TO COMPILE
+
+nvm use 18
+npm start
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
